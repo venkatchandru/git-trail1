@@ -11,6 +11,12 @@ System.out.println("English language speaks all over tamilnadu");
 	public void hindiLanguage() {
 System.out.println("Hindi language speaks in North india");
 
+
+System.out.println(" Bengali language");
+
+
+
 System.out.println("Marathi language");
 	}
-	}
+	
+}
